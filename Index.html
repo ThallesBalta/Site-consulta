@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Style.css">
+    <title>Buscador de Profissionais</title>
+</head>
+
+<body>
+    <h1>Buscador de Profissionais</h1>
+
+    <label for="cidade">Selecione a Cidade:</label>
+    <select id="cidade" onchange="atualizarRegioes()">
+        <option value="" disabled selected>Escolha a cidade</option>
+        <option value="São Paulo">São Paulo</option>
+        <option value="Grande São Paulo">Grande São Paulo</option>
+    </select>
+
+    <label for="regiao">Selecione a Região:</label>
+    <select id="regiao" disabled>
+        <option value="" disabled selected>Escolha a região</option>
+    </select>
+
+    <button onclick="buscarProfissionais()">Buscar</button>
+
+    <div id="resultado"></div>
+
+    <script src="app.js" defer></script>
+</body>
+
+</html>
