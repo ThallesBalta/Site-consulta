@@ -1,26 +1,26 @@
 const profissionaisPorRegiao = {
     "Zona Sul": {
-        "CDB": "Endereço: Rua Exemplo, 123",
-        "Labi": "Endereço: Rua Fictícia, 456",
-        "Lavoisier": "Endereço: Avenida Tal, 789",
-        "Neuro Care": "Endereço: Rua das Flores, 321"
+        "CDB": "Endereço: Rua Barão do Triunfo, 1.156 - Vila Progredior",
+        "Labi Exames": "Endereço: Av. Dona Belmira Marin, 1046 - Grajaú | R. Silva Bueno, 2247 - Ipiranga | R. Barao do Rio Branco, 373 - Santo Amaro ou R.Domingos de Morais, 2104 - Vila Mariana | R. Fidêncio Ramos, 160 - Vila Olímpia ",
+        "Lavoisier": "Endereço: Rua José Maria Lisboa, 365 - Jardim Paulista",
+        "Neuro Care": "Endereço: Avenida Giovanni Gronchi, 5.930 - Vila Progredior"
     },
     "Zona Oeste": {
         "CDB": "Endereço: Rua Oeste, 54",
-        "Labi": "Endereço: Rua Leste, 78",
+        "Labi Exames": "Endereço: R. Nossa Senhora da Lapa, 439 - Lapa",
         "Lavoisier": "Endereço: Avenida Oeste, 101",
         "Clínica Morumbi": "Endereço: Rua Morumbi, 200",
         "Clínica Rubens do Val": "Endereço: Rua Rubens, 300"
     },
     "Zona Norte": {
-        "CDB": "Endereço: Rua Norte, 123",
-        "Labi": "Endereço: Rua Norte, 456",
+        "CDB": "Endereço: Av. Leôncio de Magalhães, 874 - Jardim São Paulo,",
+        "Labi Exames": "",
         "Lavoisier": "Endereço: Avenida Norte, 789",
         "Pura e Simples": "Endereço: Rua Simples, 300"
     },
     "Zona Leste": {
-        "CDB": "Endereço: Rua Leste, 123",
-        "Labi": "Endereço: Rua Leste, 456",
+        "CDB": "Endereço: R. Vilela, 800 - Tatuapé,",
+        "Labi Exames": "Endereço: R. Victório Santim, 81 - Itaquera | R. Joao Augusto Morais, 240 - São Miguel | Pç. Silvio Romero, 150 - Tatuápe",
         "Lavoisier": "Endereço: Avenida Leste, 789",
         "Sua Imagem": "Endereço: Rua Imagem, 400",
         "Qualimed": "Endereço: Rua Qualidade, 500",
@@ -28,21 +28,20 @@ const profissionaisPorRegiao = {
     },
     "Zona Central": {
         "CDB": "Endereço: Rua Central, 123",
-        "Labi": "Endereço: Rua Central, 456",
+        "Labi Exames": "Endereço: Rua Central, 456",
         "Lavoisier": "Endereço: Avenida Central, 789",
         "Alpha República": "Endereço: Rua República, 600"
     },
     "Barueri": {
-        "Sanitas": "Endereço: Rua Sanitas, 700",
-        "Alpha Barueri": "Endereço: Avenida Alpha, 800"
+        "Sanitas": "Rua das Palmeiras, 1.000 - Barueri",
+        "Alpha Barueri": "Avenida dos Alphonsos, 2.000 - Barueri"
     },
     "Guarulhos": {
-        "Sanitas": "Endereço: Rua Sanitas, 700",
-        "Casa da Esperança": "Endereço: Rua Esperança, 900"
+        "Casa da Esperança": "Rua das Esperanças, 100 - Guarulhos"
     },
     "Osasco": {
-        "Sanitas": "Endereço: Rua Sanitas, 700",
-        "Alpha Barueri": "Endereço: Avenida Alpha, 800"
+        "Sanitas": "Rua das Palmeiras, 1.000 - Barueri",
+        "Alpha Barueri": "Avenida dos Alphonsos, 2.000 - Barueri"
     }
 };
 
