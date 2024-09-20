@@ -8,27 +8,27 @@ const profissionaisPorRegiao = {
     "Zona Oeste": {
         "CDB": "Endereço: Rua Oeste, 54",
         "Labi Exames": "Endereço: R. Nossa Senhora da Lapa, 439 - Lapa",
-        "Lavoisier": "Endereço: Avenida Oeste, 101",
+        "Lavoisier": "Av. Autonomistas 1400 - Arco Ss02 - Vila Yara",
         "Clínica Morumbi": "Endereço: Rua Morumbi, 200",
         "Clínica Rubens do Val": "Endereço: Rua Rubens, 300"
     },
     "Zona Norte": {
         "CDB": "Endereço: Av. Leôncio de Magalhães, 874 - Jardim São Paulo,",
         "Labi Exames": "",
-        "Lavoisier": "Endereço: Avenida Norte, 789",
-        "Pura e Simples": "Endereço: Rua Simples, 300"
+        "Lavoisier": "Rua Darzan 208 - Santana ",
+        "Pura e Simples": "Rua Francisco Leitão 339, 8° andar, cj. 81 e 82 - Pinheiros"
     },
     "Zona Leste": {
         "CDB": "Endereço: R. Vilela, 800 - Tatuapé,",
         "Labi Exames": "Endereço: R. Victório Santim, 81 - Itaquera | R. Joao Augusto Morais, 240 - São Miguel | Pç. Silvio Romero, 150 - Tatuápe",
-        "Lavoisier": "Endereço: Avenida Leste, 789",
+        "Lavoisier": "Rua Euclides Pacheco 424 - Tatuapé",
         "Sua Imagem": "Endereço: Rua Imagem, 400",
         "Qualimed": "Endereço: Rua Qualidade, 500",
-        "Clínica Rubens do Val": "Endereço: Rua Rubens, 200"
+        "Clínica Rubens do Val": "Rua Apucarana 326, cj. 94 e 96 - Tatuapé"
     },
     "Zona Central": {
         "CDB": "Endereço: Rua Central, 123",
-        "Labi Exames": "Endereço: Rua Central, 456",
+        "Labi Exames": "Endereço: Rua CentAv. São Luis, 218 - República",
         "Lavoisier": "Endereço: Avenida Central, 789",
         "Alpha República": "Endereço: Rua República, 600"
     },
@@ -37,7 +37,7 @@ const profissionaisPorRegiao = {
         "Alpha Barueri": "Avenida dos Alphonsos, 2.000 - Barueri"
     },
     "Guarulhos": {
-        "Casa da Esperança": "Rua das Esperanças, 100 - Guarulhos"
+        "Casa da Esperança": "Rua Fradique Coutinho 602"
     },
     "Osasco": {
         "Sanitas": "Rua das Palmeiras, 1.000 - Barueri",
