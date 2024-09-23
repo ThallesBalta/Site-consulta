@@ -14,7 +14,7 @@ const profissionaisPorRegiao = {
     },
     "Zona Norte": {
         "CDB": "Endereço: Av. Leôncio de Magalhães, 874 - Jardim São Paulo,",
-        "Labi Exames": "",
+        "Labi Exames": "Rua dos Pinheiros 1392 - Pinheiros",
         "Lavoisier": "Rua Darzan 208 - Santana ",
         "Pura e Simples": "Rua Francisco Leitão 339, 8° andar, cj. 81 e 82 - Pinheiros"
     },
